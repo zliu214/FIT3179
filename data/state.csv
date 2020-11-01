@@ -1,4 +1,4 @@
-location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower,
+location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower,people
 Africa,3,Both,22,All Ages,294,All causes,1,Number,2001,9850665.154,10449172.26,9299884.976,9850666
 America,3,Both,22,All Ages,294,All causes,1,Number,2001,5564373.438,5611897.914,5517518.157,5564374
 Europe,3,Both,22,All Ages,294,All causes,1,Number,2001,8752855.112,8786025.044,8722758.92,8752856
