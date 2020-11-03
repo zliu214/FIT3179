@@ -1,4 +1,4 @@
-Country,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower,,Confirmed,Death
+Country,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower,Continent,Confirmed,Death
 Afghanistan,3,Both,22,All Ages,294,All causes,1,Number,2019,251417.7504,292560.7528,214550.3153,Asia,251418,292561
 Albania,3,Both,22,All Ages,294,All causes,1,Number,2019,22670.53001,28339.25408,17930.44094,Europe,22671,28340
 Algeria,3,Both,22,All Ages,294,All causes,1,Number,2019,201110.9848,234167.9484,172237.5185,Africa,201111,234168
