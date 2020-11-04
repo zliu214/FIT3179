@@ -18,8 +18,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d09e51fd-cd37-4aad-8a97-45a964cb63d7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/COVID_19_10_Oct_2020.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/COVID_19_10_Oct_2020.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/country.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/country.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/scatter_plot_interactive.vg.json" beforeDir="false" afterPath="$PROJECT_DIR$/js/scatter_plot_interactive.vg.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604242038117</updated>
       <workItem from="1604242044565" duration="462000" />
-      <workItem from="1604242636973" duration="8880000" />
+      <workItem from="1604242636973" duration="9676000" />
     </task>
     <servers />
   </component>
@@ -91,9 +90,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1604269695514">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1604497066816">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604269695514" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604497066816" />
   </component>
 </project>

@@ -2,7 +2,7 @@ Country,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_nam
 Afghanistan,3,Both,22,All Ages,294,All causes,1,Number,2019,251417.7504,292560.7528,214550.3153,251418,292561,,Asia,Afghanistan,Asia
 Albania,3,Both,22,All Ages,294,All causes,1,Number,2019,22670.53001,28339.25408,17930.44094,22671,28340,,Europe,Albania,Europe
 Algeria,3,Both,22,All Ages,294,All causes,1,Number,2019,201110.9848,234167.9484,172237.5185,201111,234168,,Africa,Algeria,Africa
-American Samoa,3,Both,22,All Ages,294,All causes,1,Number,2019,383.0963985,444.5785552,331.5663973,384,445,,#N/A,Andorra,Europe
+American Samoa,3,Both,22,All Ages,294,All causes,1,Number,2019,383.0963985,444.5785552,331.5663973,384,445,,North America,Andorra,Europe
 Andorra,3,Both,22,All Ages,294,All causes,1,Number,2019,619.7108192,753.2498488,500.4258581,620,754,,Europe,Angola,Africa
 Angola,3,Both,22,All Ages,294,All causes,1,Number,2019,184933.8167,219126.7491,154027.4196,184934,219127,,Africa,Antigua and Barbuda,North America
 Antigua and Barbuda,3,Both,22,All Ages,294,All causes,1,Number,2019,609.8572375,684.5234046,542.0170984,610,685,,North America,Argentina,South America
@@ -19,13 +19,13 @@ Belarus,3,Both,22,All Ages,294,All causes,1,Number,2019,121776.8231,150517.9493,
 Belgium,3,Both,22,All Ages,294,All causes,1,Number,2019,114073.536,116380.857,111912.4579,114074,116381,,Europe,Belize,North America
 Belize,3,Both,22,All Ages,294,All causes,1,Number,2019,1990.122157,2229.346098,1776.233267,1991,2230,,North America,Benin,Africa
 Benin,3,Both,22,All Ages,294,All causes,1,Number,2019,93065.23842,115397.295,75824.86739,93066,115398,,Africa,Bhutan,Asia
-Bermuda,3,Both,22,All Ages,294,All causes,1,Number,2019,579.5979577,677.5726948,512.178287,580,678,,#N/A,Bolivia,South America
+Bermuda,3,Both,22,All Ages,294,All causes,1,Number,2019,579.5979577,677.5726948,512.178287,580,678,,Europe,Bolivia,South America
 Bhutan,3,Both,22,All Ages,294,All causes,1,Number,2019,4252.350619,5016.629228,3505.330584,4253,5017,,Asia,Bosnia and Herzegovina,Europe
-Bolivia (Plurinational State of),3,Both,22,All Ages,294,All causes,1,Number,2019,75910.01627,88752.51363,63483.31179,75911,88753,,#N/A,Botswana,Africa
+Bolivia,3,Both,22,All Ages,294,All causes,1,Number,2019,75910.01627,88752.51363,63483.31179,75911,88753,,South America,Botswana,Africa
 Bosnia and Herzegovina,3,Both,22,All Ages,294,All causes,1,Number,2019,37424.02977,45306.09782,30725.52908,37425,45307,,Europe,Brazil,South America
 Botswana,3,Both,22,All Ages,294,All causes,1,Number,2019,21171.7875,25905.25655,17486.15264,21172,25906,,Africa,Brunei,Asia
 Brazil,3,Both,22,All Ages,294,All causes,1,Number,2019,1411015.838,1448297.816,1375411.528,1411016,1448298,,South America,Bulgaria,Europe
-Brunei Darussalam,3,Both,22,All Ages,294,All causes,1,Number,2019,1880.298978,2081.369676,1703.405529,1881,2082,,#N/A,Burkina Faso,Africa
+Brunei Darussalam,3,Both,22,All Ages,294,All causes,1,Number,2019,1880.298978,2081.369676,1703.405529,1881,2082,,Asia,Burkina Faso,Africa
 Bulgaria,3,Both,22,All Ages,294,All causes,1,Number,2019,124225.8787,148315.9964,103478.1724,124226,148316,,Europe,Burma,Asia
 Burkina Faso,3,Both,22,All Ages,294,All causes,1,Number,2019,201813.6323,235540.0475,176493.7877,201814,235541,,Africa,Burundi,Africa
 Burundi,3,Both,22,All Ages,294,All causes,1,Number,2019,83466.28899,103201.5219,67512.83574,83467,103202,,Africa,Cabo Verde,Africa
@@ -40,15 +40,15 @@ China,3,Both,22,All Ages,294,All causes,1,Number,2019,10653448.03,12069759.95,93
 Colombia,3,Both,22,All Ages,294,All causes,1,Number,2019,246679.0803,306056.257,197926.6145,246680,306057,,South America,Comoros,Africa
 Comoros,3,Both,22,All Ages,294,All causes,1,Number,2019,5006.83702,5824.82838,4416.653579,5007,5825,,Africa,Congo,Africa
 Congo,3,Both,22,All Ages,294,All causes,1,Number,2019,35712.84006,42985.76007,29955.82755,35713,42986,,Africa,Costa Rica,North America
-Cook Islands,3,Both,22,All Ages,294,All causes,1,Number,2019,165.4103762,192.8162504,144.4289753,166,193,,#N/A,Croatia,Europe
+Cook Islands,3,Both,22,All Ages,294,All causes,1,Number,2019,165.4103762,192.8162504,144.4289753,166,193,,Oceania,Croatia,Europe
 Costa Rica,3,Both,22,All Ages,294,All causes,1,Number,2019,24415.69787,30137.7318,19699.34328,24416,30138,,North America,Cuba,North America
 Croatia,3,Both,22,All Ages,294,All causes,1,Number,2019,52311.37276,63011.93205,43188.54678,52312,63012,,Europe,Cyprus,Europe
 Cuba,3,Both,22,All Ages,294,All causes,1,Number,2019,105984.2436,124418.7697,89652.05846,105985,124419,,North America,Czechia,Europe
 Cyprus,3,Both,22,All Ages,294,All causes,1,Number,2019,8707.449859,9459.405078,8033.829428,8708,9460,,Europe,Denmark,Europe
 Czechia,3,Both,22,All Ages,294,All causes,1,Number,2019,113802.7958,133911.9249,96617.54033,113803,133912,,Europe,Djibouti,Africa
-Côte d'Ivoire,3,Both,22,All Ages,294,All causes,1,Number,2019,182432.7826,210248.8963,158614.3964,182433,210249,,#N/A,Dominica,North America
-Democratic People's Republic of Korea,3,Both,22,All Ages,294,All causes,1,Number,2019,237057.3435,273992.6407,207399.842,237058,273993,,#N/A,Dominican Republic,North America
-Democratic Republic of the Congo,3,Both,22,All Ages,294,All causes,1,Number,2019,564090.6527,658629.549,479764.6463,564091,658630,,#N/A,Ecuador,South America
+Cote d'Ivoire continent,3,Both,22,All Ages,294,All causes,1,Number,2019,182432.7826,210248.8963,158614.3964,182433,210249,,Africa,Dominica,North America
+Korea,3,Both,22,All Ages,294,All causes,1,Number,2019,237057.3435,273992.6407,207399.842,237058,273993,,Africa,Dominican Republic,North America
+Congo,3,Both,22,All Ages,294,All causes,1,Number,2019,564090.6527,658629.549,479764.6463,564091,658630,,Africa,Ecuador,South America
 Denmark,3,Both,22,All Ages,294,All causes,1,Number,2019,55373.76707,56889.11285,53956.74216,55374,56890,,Europe,Egypt,Africa
 Djibouti,3,Both,22,All Ages,294,All causes,1,Number,2019,7575.485406,9507.68671,6125.326716,7576,9508,,Africa,El Salvador,North America
 Dominica,3,Both,22,All Ages,294,All causes,1,Number,2019,735.0275841,862.8131837,636.4973185,736,863,,North America,Equatorial Guinea,Africa
@@ -70,9 +70,9 @@ Georgia,3,Both,22,All Ages,294,All causes,1,Number,2019,49418.41029,56096.62542,
 Germany,3,Both,22,All Ages,294,All causes,1,Number,2019,959888.9814,976704.8421,945808.0706,959889,976705,,Europe,Guinea,Africa
 Ghana,3,Both,22,All Ages,294,All causes,1,Number,2019,208182.1935,239075.7006,180722.9132,208183,239076,,Africa,Guinea-Bissau,Africa
 Greece,3,Both,22,All Ages,294,All causes,1,Number,2019,128668.6454,131434.5429,126124.5361,128669,131435,,Europe,Guyana,South America
-Greenland,3,Both,22,All Ages,294,All causes,1,Number,2019,480.459239,564.4337557,400.1222333,481,565,,#N/A,Haiti,North America
+Greenland,3,Both,22,All Ages,294,All causes,1,Number,2019,480.459239,564.4337557,400.1222333,481,565,,North America,Haiti,North America
 Grenada,3,Both,22,All Ages,294,All causes,1,Number,2019,818.5008659,877.4943955,761.0929756,819,878,,North America,Honduras,North America
-Guam,3,Both,22,All Ages,294,All causes,1,Number,2019,1127.683328,1307.972343,974.6034147,1128,1308,,#N/A,Hungary,Europe
+Guam,3,Both,22,All Ages,294,All causes,1,Number,2019,1127.683328,1307.972343,974.6034147,1128,1308,,Oceania,Hungary,Europe
 Guatemala,3,Both,22,All Ages,294,All causes,1,Number,2019,94820.58296,117671.5567,75913.39722,94821,117672,,North America,Iceland,Europe
 Guinea,3,Both,22,All Ages,294,All causes,1,Number,2019,114264.9427,138037.0348,93661.21112,114265,138038,,Africa,India,Asia
 Guinea-Bissau,3,Both,22,All Ages,294,All causes,1,Number,2019,14816.42994,17869.94255,12363.71797,14817,17870,,Africa,Indonesia,Asia
@@ -83,7 +83,7 @@ Hungary,3,Both,22,All Ages,294,All causes,1,Number,2019,128867.8596,150891.4727,
 Iceland,3,Both,22,All Ages,294,All causes,1,Number,2019,2113.289361,2286.717617,1967.843082,2114,2287,,Europe,Italy,Europe
 India,3,Both,22,All Ages,294,All causes,1,Number,2019,9391548.569,10425633.73,8429791.218,9391549,10425634,,Asia,Jamaica,North America
 Indonesia,3,Both,22,All Ages,294,All causes,1,Number,2019,1705894.651,1886967.797,1480241.119,1705895,1886968,,Asia,Japan,Asia
-Iran (Islamic Republic of),3,Both,22,All Ages,294,All causes,1,Number,2019,391113.1228,402131.9076,381512.5964,391114,402132,,#N/A,Jordan,Asia
+Iran,3,Both,22,All Ages,294,All causes,1,Number,2019,391113.1228,402131.9076,381512.5964,391114,402132,,Asia,Jordan,Asia
 Iraq,3,Both,22,All Ages,294,All causes,1,Number,2019,179615.2377,214107.6862,148050.6783,179616,214108,,Asia,Kazakhstan,Asia
 Ireland,3,Both,22,All Ages,294,All causes,1,Number,2019,32354.41954,33434.79109,31354.51973,32355,33435,,Europe,Kenya,Africa
 Israel,3,Both,22,All Ages,294,All causes,1,Number,2019,47925.32917,49151.13255,46793.15662,47926,49152,,Asia,"Korea, South",Asia
@@ -93,10 +93,10 @@ Japan,3,Both,22,All Ages,294,All causes,1,Number,2019,1400012.509,1412929.7,1387
 Jordan,3,Both,22,All Ages,294,All causes,1,Number,2019,32264.88943,37638.54185,27963.59721,32265,37639,,Asia,Laos,Asia
 Kazakhstan,3,Both,22,All Ages,294,All causes,1,Number,2019,139467.3174,155263.8375,124890.4407,139468,155264,,Asia,Latvia,Europe
 Kenya,3,Both,22,All Ages,294,All causes,1,Number,2019,293887.6449,321828.8707,268132.1452,293888,321829,,Africa,Lebanon,Asia
-Kiribati,3,Both,22,All Ages,294,All causes,1,Number,2019,1151.025532,1376.205081,951.9590994,1152,1377,,#N/A,Lesotho,Africa
+Kiribati,3,Both,22,All Ages,294,All causes,1,Number,2019,1151.025532,1376.205081,951.9590994,1152,1377,,Asia,Lesotho,Africa
 Kuwait,3,Both,22,All Ages,294,All causes,1,Number,2019,10012.89961,11621.0433,8650.263628,10013,11622,,Asia,Liberia,Africa
 Kyrgyzstan,3,Both,22,All Ages,294,All causes,1,Number,2019,34676.27705,38236.12101,31415.56143,34677,38237,,Asia,Libya,Africa
-Lao People's Democratic Republic,3,Both,22,All Ages,294,All causes,1,Number,2019,44456.84059,52996.99334,36587.60421,44457,52997,,#N/A,Liechtenstein,Europe
+Lao People's Democratic Republic,3,Both,22,All Ages,294,All causes,1,Number,2019,44456.84059,52996.99334,36587.60421,44457,52997,,Asia,Liechtenstein,Europe
 Latvia,3,Both,22,All Ages,294,All causes,1,Number,2019,27426.72978,31883.46583,24040.65038,27427,31884,,Europe,Lithuania,Europe
 Lebanon,3,Both,22,All Ages,294,All causes,1,Number,2019,33858.05461,37112.1619,30707.51428,33859,37113,,Asia,Luxembourg,Europe
 Lesotho,3,Both,22,All Ages,294,All causes,1,Number,2019,32513.76223,38419.76715,27274.66671,32514,38420,,Africa,Madagascar,Africa
@@ -110,33 +110,33 @@ Malaysia,3,Both,22,All Ages,294,All causes,1,Number,2019,175875.784,212675.0656,
 Maldives,3,Both,22,All Ages,294,All causes,1,Number,2019,1501.804558,1714.098261,1311.021015,1502,1715,,Asia,Mexico,North America
 Mali,3,Both,22,All Ages,294,All causes,1,Number,2019,201432.9274,248581.0042,165253.7815,201433,248582,,Africa,Moldova,Europe
 Malta,3,Both,22,All Ages,294,All causes,1,Number,2019,3780.267654,4103.015509,3479.987261,3781,4104,,Europe,Monaco,Europe
-Marshall Islands,3,Both,22,All Ages,294,All causes,1,Number,2019,422.3923438,527.7069559,339.8626463,423,528,,#N/A,Mongolia,Asia
+Marshall Islands,3,Both,22,All Ages,294,All causes,1,Number,2019,422.3923438,527.7069559,339.8626463,423,528,,Oceania,Mongolia,Asia
 Mauritania,3,Both,22,All Ages,294,All causes,1,Number,2019,20981.1216,25795.25619,17621.09485,20982,25796,,Africa,Montenegro,Europe
 Mauritius,3,Both,22,All Ages,294,All causes,1,Number,2019,10713.36159,12806.76418,8943.077949,10714,12807,,Africa,Morocco,Africa
 Mexico,3,Both,22,All Ages,294,All causes,1,Number,2019,738424.8313,827652.5288,654731.3369,738425,827653,,North America,Mozambique,Africa
-Micronesia (Federated States of),3,Both,22,All Ages,294,All causes,1,Number,2019,939.2551657,1133.92837,770.3781223,940,1134,,#N/A,Namibia,Africa
+Micronesia (Federated States of),3,Both,22,All Ages,294,All causes,1,Number,2019,939.2551657,1133.92837,770.3781223,940,1134,,Europe,Namibia,Africa
 Monaco,3,Both,22,All Ages,294,All causes,1,Number,2019,523.7874,581.6168323,445.6724276,524,582,,Europe,Nepal,Asia
 Mongolia,3,Both,22,All Ages,294,All causes,1,Number,2019,24859.01468,31148.56042,19992.86705,24860,31149,,Asia,Netherlands,Europe
 Montenegro,3,Both,22,All Ages,294,All causes,1,Number,2019,6793.67982,7767.442284,5949.634025,6794,7768,,Europe,New Zealand,Oceania
 Morocco,3,Both,22,All Ages,294,All causes,1,Number,2019,228124.4127,261259.5419,187836.9201,228125,261260,,Africa,Nicaragua,North America
 Mozambique,3,Both,22,All Ages,294,All causes,1,Number,2019,264784.1922,307634.2569,228277.6245,264785,307635,,Africa,Niger,Africa
-Myanmar,3,Both,22,All Ages,294,All causes,1,Number,2019,420932.0779,494445.2655,366967.187,420933,494446,,#N/A,Nigeria,Africa
+Myanmar,3,Both,22,All Ages,294,All causes,1,Number,2019,420932.0779,494445.2655,366967.187,420933,494446,,Europe,Nigeria,Africa
 Namibia,3,Both,22,All Ages,294,All causes,1,Number,2019,18906.92028,22963.29461,15687.91887,18907,22964,,Africa,North Macedonia,Europe
-Nauru,3,Both,22,All Ages,294,All causes,1,Number,2019,66.74081959,79.00875956,56.51210303,67,80,,#N/A,Norway,Europe
+Nauru,3,Both,22,All Ages,294,All causes,1,Number,2019,66.74081959,79.00875956,56.51210303,67,80,,Europe,Norway,Europe
 Nepal,3,Both,22,All Ages,294,All causes,1,Number,2019,193331.0073,216187.0437,165401.6773,193332,216188,,Asia,Oman,Asia
 Netherlands,3,Both,22,All Ages,294,All causes,1,Number,2019,157008.2279,160662.4461,153604.1275,157009,160663,,Europe,Pakistan,Asia
 New Zealand,3,Both,22,All Ages,294,All causes,1,Number,2019,34498.11993,35031.32935,33971.01762,34499,35032,,Oceania,Panama,North America
 Nicaragua,3,Both,22,All Ages,294,All causes,1,Number,2019,29196.31998,33583.89064,24886.37451,29197,33584,,North America,Papua New Guinea,Oceania
 Niger,3,Both,22,All Ages,294,All causes,1,Number,2019,202621.335,249352.9617,166137.4395,202622,249353,,Africa,Paraguay,South America
 Nigeria,3,Both,22,All Ages,294,All causes,1,Number,2019,1593180.027,1830817.906,1391406.547,1593181,1830818,,Africa,Peru,South America
-Niue,3,Both,22,All Ages,294,All causes,1,Number,2019,19.92703036,23.26560125,17.03950448,20,24,,#N/A,Philippines,Asia
+Niue,3,Both,22,All Ages,294,All causes,1,Number,2019,19.92703036,23.26560125,17.03950448,20,24,,Europe,Philippines,Asia
 North Macedonia,3,Both,22,All Ages,294,All causes,1,Number,2019,24046.57661,28965.9395,19862.05326,24047,28966,,Europe,Poland,Europe
-Northern Mariana Islands,3,Both,22,All Ages,294,All causes,1,Number,2019,350.4698241,398.6432649,302.827647,351,399,,#N/A,Portugal,Europe
+Northern Mariana Islands,3,Both,22,All Ages,294,All causes,1,Number,2019,350.4698241,398.6432649,302.827647,351,399,,Europe,Portugal,Europe
 Norway,3,Both,22,All Ages,294,All causes,1,Number,2019,41385.87946,42049.05028,40749.02106,41386,42050,,Europe,Qatar,Asia
 Oman,3,Both,22,All Ages,294,All causes,1,Number,2019,12374.19784,13394.67141,11419.54619,12375,13395,,Asia,Romania,Europe
 Pakistan,3,Both,22,All Ages,294,All causes,1,Number,2019,1499877.557,1695230.641,1328662.244,1499878,1695231,,Asia,Russia,Europe
-Palau,3,Both,22,All Ages,294,All causes,1,Number,2019,208.708375,256.8994311,168.4632733,209,257,,#N/A,Rwanda,Africa
-Palestine,3,Both,22,All Ages,294,All causes,1,Number,2019,16608.0867,18569.76407,14825.09299,16609,18570,,#N/A,Saint Kitts and Nevis,North America
+Palau,3,Both,22,All Ages,294,All causes,1,Number,2019,208.708375,256.8994311,168.4632733,209,257,,Asia,Rwanda,Africa
+Palestine,3,Both,22,All Ages,294,All causes,1,Number,2019,16608.0867,18569.76407,14825.09299,16609,18570,,Asia,Saint Kitts and Nevis,North America
 Panama,3,Both,22,All Ages,294,All causes,1,Number,2019,19797.60345,24564.61858,15887.15496,19798,24565,,North America,Saint Lucia,North America
 Papua New Guinea,3,Both,22,All Ages,294,All causes,1,Number,2019,69785.02679,87298.091,55802.31279,69786,87299,,Oceania,Saint Vincent and the Grenadines,North America
 Paraguay,3,Both,22,All Ages,294,All causes,1,Number,2019,34171.07015,42717.82611,27128.91054,34172,42718,,South America,San Marino,Europe
@@ -144,17 +144,17 @@ Peru,3,Both,22,All Ages,294,All causes,1,Number,2019,152432.5415,194458.1936,118
 Philippines,3,Both,22,All Ages,294,All causes,1,Number,2019,638800.8068,736289.3513,548356.7245,638801,736290,,Asia,Saudi Arabia,Asia
 Poland,3,Both,22,All Ages,294,All causes,1,Number,2019,406276.653,465432.6583,350624.2606,406277,465433,,Europe,Senegal,Africa
 Portugal,3,Both,22,All Ages,294,All causes,1,Number,2019,116386.9363,118936.3058,113998.7763,116387,118937,,Europe,Serbia,Europe
-Puerto Rico,3,Both,22,All Ages,294,All causes,1,Number,2019,32905.97957,40259.29678,26794.7681,32906,40260,,#N/A,Seychelles,Africa
+Puerto Rico,3,Both,22,All Ages,294,All causes,1,Number,2019,32905.97957,40259.29678,26794.7681,32906,40260,,Asia,Seychelles,Africa
 Qatar,3,Both,22,All Ages,294,All causes,1,Number,2019,4421.480306,5533.994128,3508.373862,4422,5534,,Asia,Sierra Leone,Africa
-Republic of Korea,3,Both,22,All Ages,294,All causes,1,Number,2019,318630.5514,330081.1383,307760.7706,318631,330082,,#N/A,Singapore,Asia
-Republic of Moldova,3,Both,22,All Ages,294,All causes,1,Number,2019,40997.9031,45399.67633,36976.45409,40998,45400,,#N/A,Slovakia,Europe
+Republic of Korea,3,Both,22,All Ages,294,All causes,1,Number,2019,318630.5514,330081.1383,307760.7706,318631,330082,,Asia,Singapore,Asia
+Republic of Moldova,3,Both,22,All Ages,294,All causes,1,Number,2019,40997.9031,45399.67633,36976.45409,40998,45400,,Asia,Slovakia,Europe
 Romania,3,Both,22,All Ages,294,All causes,1,Number,2019,262810.9105,305143.5235,224680.556,262811,305144,,Europe,Slovenia,Europe
-Russian Federation,3,Both,22,All Ages,294,All causes,1,Number,2019,1788286.264,1997949.839,1603214.757,1788287,1997950,,#N/A,Somalia,Africa
+Russian Federation,3,Both,22,All Ages,294,All causes,1,Number,2019,1788286.264,1997949.839,1603214.757,1788287,1997950,,Asia,Somalia,Africa
 Rwanda,3,Both,22,All Ages,294,All causes,1,Number,2019,68571.25922,79509.76271,59732.18352,68572,79510,,Africa,South Africa,Africa
 Saint Kitts and Nevis,3,Both,22,All Ages,294,All causes,1,Number,2019,499.7349426,567.1591547,454.0357067,500,568,,North America,South Sudan,Africa
 Saint Lucia,3,Both,22,All Ages,294,All causes,1,Number,2019,1406.088754,1612.709391,1225.461041,1407,1613,,North America,Spain,Europe
 Saint Vincent and the Grenadines,3,Both,22,All Ages,294,All causes,1,Number,2019,1025.963206,1148.444849,920.5531123,1026,1149,,North America,Sri Lanka,Asia
-Samoa,3,Both,22,All Ages,294,All causes,1,Number,2019,1367.159996,1662.645139,1138.411324,1368,1663,,#N/A,Sudan,Africa
+Samoa,3,Both,22,All Ages,294,All causes,1,Number,2019,1367.159996,1662.645139,1138.411324,1368,1663,,Asia,Sudan,Africa
 San Marino,3,Both,22,All Ages,294,All causes,1,Number,2019,301.5965509,402.0494364,217.1870161,302,403,,Europe,Suriname,South America
 Sao Tome and Principe,3,Both,22,All Ages,294,All causes,1,Number,2019,1010.786811,1168.521668,847.8858431,1011,1169,,Africa,Sweden,Europe
 Saudi Arabia,3,Both,22,All Ages,294,All causes,1,Number,2019,128507.2244,156199.8221,105291.3008,128508,156200,,Asia,Switzerland,Europe
@@ -165,7 +165,7 @@ Sierra Leone,3,Both,22,All Ages,294,All causes,1,Number,2019,70113.92623,84585.2
 Singapore,3,Both,22,All Ages,294,All causes,1,Number,2019,23222.0421,23795.0359,22690.16445,23223,23796,,Asia,Thailand,Asia
 Slovakia,3,Both,22,All Ages,294,All causes,1,Number,2019,54548.94081,66191.88714,44699.28935,54549,66192,,Europe,Togo,Africa
 Slovenia,3,Both,22,All Ages,294,All causes,1,Number,2019,20813.19495,25858.34013,16952.5269,20814,25859,,Europe,Trinidad and Tobago,North America
-Solomon Islands,3,Both,22,All Ages,294,All causes,1,Number,2019,6220.770391,7376.755489,5231.864662,6221,7377,,#N/A,Tunisia,Africa
+Solomon Islands,3,Both,22,All Ages,294,All causes,1,Number,2019,6220.770391,7376.755489,5231.864662,6221,7377,,Asia,Tunisia,Africa
 Somalia,3,Both,22,All Ages,294,All causes,1,Number,2019,184230.9163,235793.5373,147081.528,184231,235794,,Africa,Turkey,Asia
 South Africa,3,Both,22,All Ages,294,All causes,1,Number,2019,521802.3514,554966.5344,494683.2843,521803,554967,,Africa,Uganda,Africa
 South Sudan,3,Both,22,All Ages,294,All causes,1,Number,2019,72739.09707,87477.71411,60980.39624,72740,87478,,Africa,Ukraine,Europe
@@ -175,31 +175,31 @@ Sudan,3,Both,22,All Ages,294,All causes,1,Number,2019,202165.3763,235449.7814,17
 Suriname,3,Both,22,All Ages,294,All causes,1,Number,2019,4370.586316,5091.649029,3751.009658,4371,5092,,South America,United States,North America
 Sweden,3,Both,22,All Ages,294,All causes,1,Number,2019,93801.16794,94968.13232,92740.0252,93802,94969,,Europe,Uzbekistan,Asia
 Switzerland,3,Both,22,All Ages,294,All causes,1,Number,2019,69816.83592,71375.68943,68366.52638,69817,71376,,Europe,Venezuela,South America
-Syrian Arab Republic,3,Both,22,All Ages,294,All causes,1,Number,2019,84424.99545,106240.4965,67798.22867,84425,106241,,#N/A,Vietnam,Asia
-Taiwan (Province of China),3,Both,22,All Ages,294,All causes,1,Number,2019,185365.1553,231575.8725,150584.1226,185366,231576,,#N/A,West Bank and Gaza,Asia
+Syrian Arab Republic,3,Both,22,All Ages,294,All causes,1,Number,2019,84424.99545,106240.4965,67798.22867,84425,106241,,Asia,Vietnam,Asia
+Taiwan (Province of China),3,Both,22,All Ages,294,All causes,1,Number,2019,185365.1553,231575.8725,150584.1226,185366,231576,,Asia,West Bank and Gaza,Asia
 Tajikistan,3,Both,22,All Ages,294,All causes,1,Number,2019,48702.90568,57905.6493,41258.72633,48703,57906,,Asia,Western Sahara,Africa
 Thailand,3,Both,22,All Ages,294,All causes,1,Number,2019,497502.3509,628041.934,389256.782,497503,628042,,Asia,Yemen,Asia
-Timor-Leste,3,Both,22,All Ages,294,All causes,1,Number,2019,7756.200715,8617.942925,6665.430363,7757,8618,,#N/A,Zambia,Africa
+Timor-Leste,3,Both,22,All Ages,294,All causes,1,Number,2019,7756.200715,8617.942925,6665.430363,7757,8618,,Asia,Zambia,Africa
 Togo,3,Both,22,All Ages,294,All causes,1,Number,2019,53555.20618,62972.89933,45632.60981,53556,62973,,Africa,Zimbabwe,Africa
-Tokelau,3,Both,22,All Ages,294,All causes,1,Number,2019,11.10778454,13.6357997,9.189807282,12,14,,#N/A,,
-Tonga,3,Both,22,All Ages,294,All causes,1,Number,2019,657.9680324,785.3267819,550.5385026,658,786,,#N/A,,
+Tokelau,3,Both,22,All Ages,294,All causes,1,Number,2019,11.10778454,13.6357997,9.189807282,12,14,,Asia,,
+Tonga,3,Both,22,All Ages,294,All causes,1,Number,2019,657.9680324,785.3267819,550.5385026,658,786,,Asia,,
 Trinidad and Tobago,3,Both,22,All Ages,294,All causes,1,Number,2019,11765.05463,14952.24759,9167.266599,11766,14953,,North America,,
 Tunisia,3,Both,22,All Ages,294,All causes,1,Number,2019,67618.31432,85426.14378,53063.07914,67619,85427,,Africa,,
 Turkey,3,Both,22,All Ages,294,All causes,1,Number,2019,454742.0549,536629.834,382103.6069,454743,536630,,Asia,,
-Turkmenistan,3,Both,22,All Ages,294,All causes,1,Number,2019,33620.29445,40880.40581,27893.22441,33621,40881,,#N/A,,
-Tuvalu,3,Both,22,All Ages,294,All causes,1,Number,2019,107.3350487,136.1978496,86.07136563,108,137,,#N/A,,
+Turkmenistan,3,Both,22,All Ages,294,All causes,1,Number,2019,33620.29445,40880.40581,27893.22441,33621,40881,,Asia,,
+Tuvalu,3,Both,22,All Ages,294,All causes,1,Number,2019,107.3350487,136.1978496,86.07136563,108,137,,Asia,,
 Uganda,3,Both,22,All Ages,294,All causes,1,Number,2019,242798.4984,279716.5018,212558.3178,242799,279717,,Africa,,
 Ukraine,3,Both,22,All Ages,294,All causes,1,Number,2019,698662.8325,796913.2302,615471.9017,698663,796914,,Europe,,
 United Arab Emirates,3,Both,22,All Ages,294,All causes,1,Number,2019,29113.02119,37347.46736,22477.79224,29114,37348,,Asia,,
 United Kingdom,3,Both,22,All Ages,294,All causes,1,Number,2019,621814.6442,627195.8602,616814.8543,621815,627196,,Europe,,
-United Republic of Tanzania,3,Both,22,All Ages,294,All causes,1,Number,2019,354350.9842,408305.3401,312213.793,354351,408306,,#N/A,,
-United States of America,3,Both,22,All Ages,294,All causes,1,Number,2019,2946455.755,2968832.318,2924325.158,2946456,2968833,,#N/A,,
-United States Virgin Islands,3,Both,22,All Ages,294,All causes,1,Number,2019,1279.016616,1400.856563,1136.982022,1280,1401,,#N/A,,
+Tanzania,3,Both,22,All Ages,294,All causes,1,Number,2019,354350.9842,408305.3401,312213.793,354351,408306,,Africa,,
+America,3,Both,22,All Ages,294,All causes,1,Number,2019,2946455.755,2968832.318,2924325.158,2946456,2968833,,North America,,
+United States Virgin Islands,3,Both,22,All Ages,294,All causes,1,Number,2019,1279.016616,1400.856563,1136.982022,1280,1401,,South America,,
 Uruguay,3,Both,22,All Ages,294,All causes,1,Number,2019,33847.27926,34774.81258,33004.02177,33848,34775,,South America,,
 Uzbekistan,3,Both,22,All Ages,294,All causes,1,Number,2019,203598.8563,235384.0706,175690.9431,203599,235385,,Asia,,
-Vanuatu,3,Both,22,All Ages,294,All causes,1,Number,2019,2236.499869,2801.363959,1831.439134,2237,2802,,#N/A,,
-Venezuela (Bolivarian Republic of),3,Both,22,All Ages,294,All causes,1,Number,2019,186929.2755,236980.8142,146795.7566,186930,236981,,#N/A,,
-Viet Nam,3,Both,22,All Ages,294,All causes,1,Number,2019,631817.5709,714078.8817,538099.658,631818,714079,,#N/A,,
+Vanuatu,3,Both,22,All Ages,294,All causes,1,Number,2019,2236.499869,2801.363959,1831.439134,2237,2802,,Oceania,,
+Venezuela,3,Both,22,All Ages,294,All causes,1,Number,2019,186929.2755,236980.8142,146795.7566,186930,236981,,South America,,
+VietNam,3,Both,22,All Ages,294,All causes,1,Number,2019,631817.5709,714078.8817,538099.658,631818,714079,,Asia,,
 Yemen,3,Both,22,All Ages,294,All causes,1,Number,2019,174541.93,209931.8634,147973.8118,174542,209932,,Asia,,
 Zambia,3,Both,22,All Ages,294,All causes,1,Number,2019,123354.9747,144275.8416,106828.4872,123355,144276,,Africa,,
 Zimbabwe,3,Both,22,All Ages,294,All causes,1,Number,2019,126522.6637,147086.7877,109715.3775,126523,147087,,Africa,,
