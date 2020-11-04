@@ -18,6 +18,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d09e51fd-cd37-4aad-8a97-45a964cb63d7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/COVID_19_10_Oct_2020.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/COVID_19_10_Oct_2020.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/country.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/country.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
