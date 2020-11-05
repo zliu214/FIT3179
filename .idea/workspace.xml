@@ -17,7 +17,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d09e51fd-cd37-4aad-8a97-45a964cb63d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pie-chart-australia.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/normalised-stacked-bars.json" beforeDir="false" afterPath="$PROJECT_DIR$/normalised-stacked-bars.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604242038117</updated>
       <workItem from="1604242044565" duration="462000" />
-      <workItem from="1604242636973" duration="18193000" />
+      <workItem from="1604242636973" duration="18779000" />
     </task>
     <servers />
   </component>
