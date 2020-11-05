@@ -1,0 +1,11 @@
+{  "width": 400,
+  "height": 300,
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "description": "A simple bar chart with embedded data.",
+  "data": {"url": "https://raw.githubusercontent.com/zliu214/FIT3179/main/data/Australia.csv"},
+  "mark": "bar",
+  "encoding": {
+    "x": {"field": "Year", "type": "nominal", "axis": {"labelAngle": 0}},
+    "y": {"field": "Contient", "type": "quantitative"}
+  }
+}
