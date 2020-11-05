@@ -25,7 +25,7 @@
        background-color: lightgray;
      }
      .page{
-       width: 1200px;
+       width: 1600px;
        background-color: white;   
        margin: auto;
        padding: 50px;
@@ -53,48 +53,36 @@
 </head>
 <body>
 
- <div class="page">
+ <center class="page">
 
    <!-- pure grid group -->
     <div class="pure-g">
       <div class="pure-u-1-1">
-        <h1>Multiple Visualisations</h1>
-        <p>This page demonstrates how you can use pure.css grid for your layout.</p>
+        <center><h1>Australia and the world of death before covid-19 Outbreak</h1></center>
+          <h3>Currently we know that Covid-19 caused a lot of troubles around the world. </h3>
+          <h4>But compare to current situation, what happened to our previous year before Covid-19 Outbreak?</h4>
       </div>
     </div>
   <!-- end pure grid group -->
+     <center><h2>Map of the Death Before Covid-19 Outbreak</h2></center>
+     <div class="pure-g">
+         <center><div id="vis2"></div></center>
+     </div>
 
-    <!-- pure grid group -->
+
     <div class="pure-g">
         <div class="pure-u-1-3">
           <div class="description description-left">
-            <h2>This is the first section</h2>
-            <p>The first column is used for description while the next two columns are merged and used for visualisation. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa sapien faucibus et molestie ac feugiat sed. </p>
+            <h2>The year before covid-19 outbreak death</h2>
+            <p>We can see that not a lot of people died in Australia before the stage of Covid-19 Outbreak and Australia Death Rate is Around a Medium Level</p>
           </div>
         </div>
         <div class="pure-u-2-3">
           <div id="vis1" class="vis-container"></div>
         </div>
     </div>
-    <!-- end pure grid group -->
 
-    <!-- pure grid group -->
-    <div class="pure-g">
-        <div class="pure-u-1-3">
-            <div class="description description-right">
-                <h2>This is the second section</h2>
-                <p>Similar to the previous section, but the colum partition is swapped. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa sapien faucibus et molestie ac feugiat sed. Egestas purus viverra accumsan in nisl.</p>
-            </div>
-        </div>
-        <div class="pure-u-2-3">
-          <div id="vis2"  class="vis-container"></div>
-        </div>
 
-      
-    </div>
-    <!-- end pure grid group -->
-
-    <!-- pure grid group -->
     <div class="pure-g">
       <div class="pure-u-1-3">
         <div class="description description-left">
@@ -124,7 +112,6 @@
             </div>
     
     </div>
-    <!-- end pure grid group -->
   
     <div class="pure-g">
       <div class="pure-u-1-1 small-font">
@@ -132,7 +119,7 @@
     </div>
   
 
-  </div> <!-- end page -->
+  </div>
    
 <script type="text/javascript">
   var specVis1 = "./normalised-stacked-bars-responsive.json";
@@ -140,24 +127,23 @@
   var specVis3= "./normalised-stacked-bars.json";
   var specVis4="./MAP.json";
   var specVis5="./Column.json";
+  var specVis6="./AGE.json";
 
   vegaEmbed('#vis1', specVis2, {"actions": false}).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
   
    vegaEmbed('#vis2', specVis4, {"actions": false}).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 
   vegaEmbed('#vis3', specVis3, {"actions": false}).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 
   vegaEmbed('#vis4', specVis1, {"actions": false}).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
   vegaEmbed('#vis5', specVis5, {"actions": false}).then(function(result) {
-      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+
+  vegaEmbed('#vis6', specVis6, {"actions": false}).then(function(result) {
   }).catch(console.error);
 
 </script>
