@@ -8,14 +8,14 @@
   },
   "params": [
     {
-      "name": "Population_Above",
+      "name": "Death_Above",
       "value": 0,
       "bind": {
         "input": "range",
         "min": 0,
-        "max": 100000000,
-        "step": 1000000,
-        "name": "Minimum Population: "
+        "max": 11000000,
+        "step": 1000,
+        "name": "Confirmed Death Population: "
       }
     },
     {
@@ -44,23 +44,21 @@
       }
     }
   ],
-  "transform": [
-    {"filter": "Continent_selection == null || datum.Continent == Continent_selection"}
-  ],
+  "transform": [{"filter": "datum.Confirmed > Death_Above"},{"filter": "Continent_selection == null || datum.Continent == Continent_selection"}],
   "encoding": {
     "x": {
-      "field": "Upper",
+      "field": "upper",
       "type": "quantitative",
       "title": "Estimated Max Death Population",
-      "axis": {"tickCount": 8},
-      "scale": {"type": "log", "domain": [1, 10000000000]}
+      "axis": {"tickCount": 6},
+      "scale": {"type": "log", "domain": [1, 110000000]}
     },
     "y": {
       "field": "lower",
       "type": "quantitative",
       "title": "Estimated Minimum Death Population",
-      "axis": {"tickCount": 8},
-      "scale": {"type": "log", "domain": [1, 10000000000]}
+      "axis": {"tickCount": 6},
+      "scale": {"type": "log", "domain": [1, 11000000]}
     }
   },
   "layer": [
@@ -79,8 +77,8 @@
           "type": "quantitative",
           "scale": {
             "type": "threshold",
-            "domain": [1000000, 10000000, 50000000, 100000000, 500000000],
-            "range": [10, 50, 150, 200, 300, 400]
+            "domain": [1000, 10000, 100000, 1000000, 9000000],
+            "range": [10, 50, 150, 200, 300, 900]
           },
           "legend": {"format": ".1s"}
         },
@@ -113,14 +111,8 @@
         "tooltip": [
           {"field": "Country", "type": "nominal"},
           {"field": "Confirmed", "type": "quantitative", "format": ","},
-          {"field": "Active", "type": "quantitative", "format": ","},
-          {"field": "Deaths", "type": "quantitative", "format": ","},
-          {"field": "Recovered", "type": "quantitative", "format": ","},
-          {
-            "field": "Cases per 10,000 Population",
-            "type": "quantitative",
-            "format": ".2f"
-          }
+          {"field": "upper", "name":"Estimated Max Death Population","type": "quantitative", "format": ","},
+          {"field": "lower", "name":"Estimated Min Death Population","type": "quantitative", "format": ","}
         ]
       }
     },
@@ -138,7 +130,7 @@
         "color": {"value": "black"},
         "opacity": {
           "condition": {
-            "test": "datum['Country'] == 'China' || datum['Country'] == 'Singapore' || datum['Country'] == 'Australia' || datum['Country'] == 'New Zealand' || datum['Country'] == 'Italy' || datum['Country'] == 'Yemen' ||  datum['Country'] == 'United States'",
+            "test": "datum['Country'] == 'India' || datum['Country'] == 'Australia' || datum['Country'] == 'New Zealand' || datum['Country'] == 'Italy'||  datum['Country'] == 'United States'",
             "value": 1
           },
           "value": 0
@@ -146,14 +138,8 @@
         "tooltip": [
           {"field": "Country", "type": "nominal"},
           {"field": "Confirmed", "type": "quantitative", "format": ","},
-          {"field": "Active", "type": "quantitative", "format": ","},
-          {"field": "Deaths", "type": "quantitative", "format": ","},
-          {"field": "Recovered", "type": "quantitative", "format": ","},
-          {
-            "field": "Cases per 10,000 Population",
-            "type": "quantitative",
-            "format": ".2f"
-          }
+          {"field": "upper", "name":"Estimated Max Death Population","type": "quantitative", "format": ","},
+          {"field": "lower", "name":"Estimated Min Death Population","type": "quantitative", "format": ","}
         ]
       }
     }
