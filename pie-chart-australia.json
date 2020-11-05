@@ -1,8 +1,11 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 200,
+  "height": 200,
   "description": "pie chart to show percentage of people",
   "data": {"url": "https://raw.githubusercontent.com/zliu214/FIT3179/main/data/sex.csv"},
   "mark": "arc",
+  "title": "Australia",
   "encoding": {
     "theta": {"field": "Death", "type": "quantitative"},
     "color": {"field": "sex_name", "type": "nominal"}

@@ -1,11 +1,12 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "description": "pie chart to show percentage of people",
-  "data": {"url": "https://raw.githubusercontent.com/zliu214/FIT3179/main/data/sex.csv"},
+  "data": {"url": "https://raw.githubusercontent.com/zliu214/FIT3179/main/data/gender.csv"},
   "mark": "arc",
+  "title": "World",
   "encoding": {
-    "theta": {"field": "Death", "type": "quantitative"},
-    "color": {"field": "sex_name", "type": "nominal"}
+    "theta": {"field": "people", "type": "quantitative"},
+    "color": {"field": "sex_name", "type": "nominal","title":"World"}
   },
   "view": {"stroke": null}
 }
