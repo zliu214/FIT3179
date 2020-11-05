@@ -1,77 +1,265 @@
-location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower,people
-Africa,3,Both,22,All Ages,294,All causes,1,Number,2001,9850665.154,10449172.26,9299884.976,9850666
-America,3,Both,22,All Ages,294,All causes,1,Number,2001,5564373.438,5611897.914,5517518.157,5564374
-Europe,3,Both,22,All Ages,294,All causes,1,Number,2001,8752855.112,8786025.044,8722758.92,8752856
-Asia,3,Both,22,All Ages,294,All causes,1,Number,2001,26773289.19,27687391.75,25969689.74,26773290
-Africa,3,Both,22,All Ages,294,All causes,1,Number,2002,9954272.248,10562744.34,9375883.277,9954273
-Asia,3,Both,22,All Ages,294,All causes,1,Number,2002,26928926.17,27828769.28,26125620.5,26928927
-America,3,Both,22,All Ages,294,All causes,1,Number,2002,5651293.934,5695740.663,5604983.719,5651294
-Europe,3,Both,22,All Ages,294,All causes,1,Number,2002,8863656.342,8895680.879,8833598.924,8863657
-America,3,Both,22,All Ages,294,All causes,1,Number,2005,5755450.103,5809105.57,5704110.181,5755451
-Africa,3,Both,22,All Ages,294,All causes,1,Number,2003,10040073.56,10651027.79,9450705.262,10040074
-Asia,3,Both,22,All Ages,294,All causes,1,Number,2005,27421402.1,28290707.5,26553295.59,27421403
-Europe,3,Both,22,All Ages,294,All causes,1,Number,2005,8889608.315,8918316.338,8860067.18,8889609
-Africa,3,Both,22,All Ages,294,All causes,1,Number,2005,9979873.975,10547210.43,9402821.158,9979874
-America,3,Both,22,All Ages,294,All causes,1,Number,2004,5706809.85,5757954.213,5659493.183,5706810
-Europe,3,Both,22,All Ages,294,All causes,1,Number,2003,8916507.647,8945379.299,8888988.11,8916508
-America,3,Both,22,All Ages,294,All causes,1,Number,2003,5702199.996,5751501.638,5655982.167,5702200
-Asia,3,Both,22,All Ages,294,All causes,1,Number,2003,26985284.14,27891410.83,26184284.77,26985285
-Africa,3,Both,22,All Ages,294,All causes,1,Number,2004,10042739.11,10623848.44,9464220.108,10042740
-Asia,3,Both,22,All Ages,294,All causes,1,Number,2004,27281403.2,28116919.75,26454938.99,27281404
-Europe,3,Both,22,All Ages,294,All causes,1,Number,2004,8785903.057,8817020.354,8758446.058,8785904
-Africa,3,Both,22,All Ages,294,All causes,1,Number,2006,9906784.89,10480906.74,9350369.835,9906785
-Africa,3,Both,22,All Ages,294,All causes,1,Number,2007,9790950.191,10344703.2,9222132.475,9790951
-America,3,Both,22,All Ages,294,All causes,1,Number,2006,5791383.801,5847759.518,5738013.044,5791384
-America,3,Both,22,All Ages,294,All causes,1,Number,2007,5843098.113,5901132.832,5787473.588,5843099
-Europe,3,Both,22,All Ages,294,All causes,1,Number,2006,8679415.576,8709254.432,8648592.646,8679416
-Asia,3,Both,22,All Ages,294,All causes,1,Number,2006,27424670.7,28295853,26641676.52,27424671
-Asia,3,Both,22,All Ages,294,All causes,1,Number,2007,27560608.5,28431525.35,26749110.48,27560609
-Europe,3,Both,22,All Ages,294,All causes,1,Number,2007,8628778.023,8659227.596,8596851.269,8628779
-Asia,3,Both,22,All Ages,294,All causes,1,Number,2008,28111846.33,28956699.61,27287356.53,28111847
-Africa,3,Both,22,All Ages,294,All causes,1,Number,2008,9684009.025,10286417.39,9117934.432,9684010
-Europe,3,Both,22,All Ages,294,All causes,1,Number,2008,8668867.616,8702364.898,8636464.138,8668868
-America,3,Both,22,All Ages,294,All causes,1,Number,2009,6040860.209,6099386.969,5981063.074,6040861
-America,3,Both,22,All Ages,294,All causes,1,Number,2008,5940892.261,5999608.27,5882197.068,5940893
-Africa,3,Both,22,All Ages,294,All causes,1,Number,2009,9604668.384,10200887.32,8984714.659,9604669
-Asia,3,Both,22,All Ages,294,All causes,1,Number,2009,27946559.83,28750168.09,27077728.67,27946560
-Europe,3,Both,22,All Ages,294,All causes,1,Number,2009,8555122.575,8593020.39,8515314.737,8555123
-Europe,3,Both,22,All Ages,294,All causes,1,Number,2011,8448146.367,8487176.768,8412732.786,8448147
-Africa,3,Both,22,All Ages,294,All causes,1,Number,2011,9415786.485,10086163.33,8804401.17,9415787
-Asia,3,Both,22,All Ages,294,All causes,1,Number,2010,28238760.94,29121833.17,27379589.71,28238761
-America,3,Both,22,All Ages,294,All causes,1,Number,2011,6203250.959,6266284.843,6139845.381,6203251
-Africa,3,Both,22,All Ages,294,All causes,1,Number,2010,9507458.143,10122180.26,8903109.259,9507459
-Asia,3,Both,22,All Ages,294,All causes,1,Number,2011,28566034.08,29604344.7,27663677.9,28566035
-America,3,Both,22,All Ages,294,All causes,1,Number,2010,6331354.273,6395577.251,6261681.494,6331355
-Europe,3,Both,22,All Ages,294,All causes,1,Number,2010,8565906.481,8606703.253,8527183.215,8565907
-Africa,3,Both,22,All Ages,294,All causes,1,Number,2013,9237278.222,9962678.484,8581627.142,9237279
-Asia,3,Both,22,All Ages,294,All causes,1,Number,2012,28718803.67,29724432.21,27744858.27,28718804
-America,3,Both,22,All Ages,294,All causes,1,Number,2014,6535182.424,6603897.666,6468043.795,6535183
-Asia,3,Both,22,All Ages,294,All causes,1,Number,2013,28994766.72,30063131.95,27922277,28994767
-America,3,Both,22,All Ages,294,All causes,1,Number,2012,6296023.528,6356175.873,6234490.187,6296024
-Europe,3,Both,22,All Ages,294,All causes,1,Number,2013,8467074.338,8509532.651,8429973.923,8467075
-Europe,3,Both,22,All Ages,294,All causes,1,Number,2012,8475334.443,8513926.564,8440555.772,8475335
-America,3,Both,22,All Ages,294,All causes,1,Number,2013,6425079.286,6486547.413,6362985.479,6425080
-Africa,3,Both,22,All Ages,294,All causes,1,Number,2014,9210594.733,10036578.13,8475512.839,9210595
-Asia,3,Both,22,All Ages,294,All causes,1,Number,2014,29209017.04,30255206.69,28060653.37,29209018
-Europe,3,Both,22,All Ages,294,All causes,1,Number,2014,8505232.492,8547185.984,8465337.062,8505233
-Africa,3,Both,22,All Ages,294,All causes,1,Number,2012,9305231.636,9990957.116,8671510.793,9305232
-Africa,3,Both,22,All Ages,294,All causes,1,Number,2015,9168240.364,10026492.42,8429010.864,9168241
-America,3,Both,22,All Ages,294,All causes,1,Number,2015,6677798.24,6776978.38,6585745.695,6677799
-Asia,3,Both,22,All Ages,294,All causes,1,Number,2015,29472570.52,30581357.24,28342808.39,29472571
-Europe,3,Both,22,All Ages,294,All causes,1,Number,2015,8717749.343,8764838.771,8671937.427,8717750
-Asia,3,Both,22,All Ages,294,All causes,1,Number,2018,30768472.23,32557530.76,28938124.89,30768473
-Europe,3,Both,22,All Ages,294,All causes,1,Number,2018,8818259.157,9052133.076,8594726.683,8818260
-America,3,Both,22,All Ages,294,All causes,1,Number,2016,6836046.298,6967636.426,6714294.724,6836047
-Africa,3,Both,22,All Ages,294,All causes,1,Number,2016,9111370.103,10079910.26,8326832.524,9111371
-Asia,3,Both,22,All Ages,294,All causes,1,Number,2016,29828912.63,31241471.13,28537113.96,29828913
-Asia,3,Both,22,All Ages,294,All causes,1,Number,2017,30231777.92,31772707.92,28691543.59,30231778
-Africa,3,Both,22,All Ages,294,All causes,1,Number,2017,9047048.721,10044904.67,8203440.467,9047049
-America,3,Both,22,All Ages,294,All causes,1,Number,2017,6936060.178,7119066.05,6768429.14,6936061
-Europe,3,Both,22,All Ages,294,All causes,1,Number,2016,8706010.32,8765993.498,8648906.562,8706011
-Africa,3,Both,22,All Ages,294,All causes,1,Number,2018,8971520.454,10008926.58,8105929.963,8971521
-Europe,3,Both,22,All Ages,294,All causes,1,Number,2017,8692792.697,8809524.272,8573488.017,8692793
-America,3,Both,22,All Ages,294,All causes,1,Number,2018,7091047.304,7342505.307,6862435.397,7091048
-Africa,3,Both,22,All Ages,294,All causes,1,Number,2019,8951151.894,9987221.03,8109441.896,8951152
-Asia,3,Both,22,All Ages,294,All causes,1,Number,2019,31310725.91,33125656.74,29313017.13,31310726
-America,3,Both,22,All Ages,294,All causes,1,Number,2019,7261119.819,7569126.098,6987140.994,7261120
-Europe,3,Both,22,All Ages,294,All causes,1,Number,2019,8935075.897,9263730.973,8622725.484,8935076
+location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower,people,Continent,Population
+Africa,3,Both,22,All Ages,294,All causes,1,Number,2001,9850665.154,10449172.26,9299884.976,9850666,#N/A,
+America,3,Both,22,All Ages,294,All causes,1,Number,2001,5564373.438,5611897.914,5517518.157,5564374,,
+Europe,3,Both,22,All Ages,294,All causes,1,Number,2001,8752855.112,8786025.044,8722758.92,8752856,,
+Asia,3,Both,22,All Ages,294,All causes,1,Number,2001,26773289.19,27687391.75,25969689.74,26773290,,
+Africa,3,Both,22,All Ages,294,All causes,1,Number,2002,9954272.248,10562744.34,9375883.277,9954273,,
+Asia,3,Both,22,All Ages,294,All causes,1,Number,2002,26928926.17,27828769.28,26125620.5,26928927,,
+America,3,Both,22,All Ages,294,All causes,1,Number,2002,5651293.934,5695740.663,5604983.719,5651294,,
+Europe,3,Both,22,All Ages,294,All causes,1,Number,2002,8863656.342,8895680.879,8833598.924,8863657,,
+America,3,Both,22,All Ages,294,All causes,1,Number,2005,5755450.103,5809105.57,5704110.181,5755451,,
+Africa,3,Both,22,All Ages,294,All causes,1,Number,2003,10040073.56,10651027.79,9450705.262,10040074,,
+Asia,3,Both,22,All Ages,294,All causes,1,Number,2005,27421402.1,28290707.5,26553295.59,27421403,,
+Europe,3,Both,22,All Ages,294,All causes,1,Number,2005,8889608.315,8918316.338,8860067.18,8889609,,
+Africa,3,Both,22,All Ages,294,All causes,1,Number,2005,9979873.975,10547210.43,9402821.158,9979874,,
+America,3,Both,22,All Ages,294,All causes,1,Number,2004,5706809.85,5757954.213,5659493.183,5706810,,
+Europe,3,Both,22,All Ages,294,All causes,1,Number,2003,8916507.647,8945379.299,8888988.11,8916508,,
+America,3,Both,22,All Ages,294,All causes,1,Number,2003,5702199.996,5751501.638,5655982.167,5702200,,
+Asia,3,Both,22,All Ages,294,All causes,1,Number,2003,26985284.14,27891410.83,26184284.77,26985285,,
+Africa,3,Both,22,All Ages,294,All causes,1,Number,2004,10042739.11,10623848.44,9464220.108,10042740,,
+Asia,3,Both,22,All Ages,294,All causes,1,Number,2004,27281403.2,28116919.75,26454938.99,27281404,,
+Europe,3,Both,22,All Ages,294,All causes,1,Number,2004,8785903.057,8817020.354,8758446.058,8785904,,
+Africa,3,Both,22,All Ages,294,All causes,1,Number,2006,9906784.89,10480906.74,9350369.835,9906785,,
+Africa,3,Both,22,All Ages,294,All causes,1,Number,2007,9790950.191,10344703.2,9222132.475,9790951,,
+America,3,Both,22,All Ages,294,All causes,1,Number,2006,5791383.801,5847759.518,5738013.044,5791384,,
+America,3,Both,22,All Ages,294,All causes,1,Number,2007,5843098.113,5901132.832,5787473.588,5843099,,
+Europe,3,Both,22,All Ages,294,All causes,1,Number,2006,8679415.576,8709254.432,8648592.646,8679416,,
+Asia,3,Both,22,All Ages,294,All causes,1,Number,2006,27424670.7,28295853,26641676.52,27424671,,
+Asia,3,Both,22,All Ages,294,All causes,1,Number,2007,27560608.5,28431525.35,26749110.48,27560609,,
+Europe,3,Both,22,All Ages,294,All causes,1,Number,2007,8628778.023,8659227.596,8596851.269,8628779,,
+Asia,3,Both,22,All Ages,294,All causes,1,Number,2008,28111846.33,28956699.61,27287356.53,28111847,,
+Africa,3,Both,22,All Ages,294,All causes,1,Number,2008,9684009.025,10286417.39,9117934.432,9684010,,
+Europe,3,Both,22,All Ages,294,All causes,1,Number,2008,8668867.616,8702364.898,8636464.138,8668868,,
+America,3,Both,22,All Ages,294,All causes,1,Number,2009,6040860.209,6099386.969,5981063.074,6040861,,
+America,3,Both,22,All Ages,294,All causes,1,Number,2008,5940892.261,5999608.27,5882197.068,5940893,,
+Africa,3,Both,22,All Ages,294,All causes,1,Number,2009,9604668.384,10200887.32,8984714.659,9604669,,
+Asia,3,Both,22,All Ages,294,All causes,1,Number,2009,27946559.83,28750168.09,27077728.67,27946560,,
+Europe,3,Both,22,All Ages,294,All causes,1,Number,2009,8555122.575,8593020.39,8515314.737,8555123,,
+Europe,3,Both,22,All Ages,294,All causes,1,Number,2011,8448146.367,8487176.768,8412732.786,8448147,,
+Africa,3,Both,22,All Ages,294,All causes,1,Number,2011,9415786.485,10086163.33,8804401.17,9415787,,
+Asia,3,Both,22,All Ages,294,All causes,1,Number,2010,28238760.94,29121833.17,27379589.71,28238761,,
+America,3,Both,22,All Ages,294,All causes,1,Number,2011,6203250.959,6266284.843,6139845.381,6203251,,
+Africa,3,Both,22,All Ages,294,All causes,1,Number,2010,9507458.143,10122180.26,8903109.259,9507459,,
+Asia,3,Both,22,All Ages,294,All causes,1,Number,2011,28566034.08,29604344.7,27663677.9,28566035,,
+America,3,Both,22,All Ages,294,All causes,1,Number,2010,6331354.273,6395577.251,6261681.494,6331355,,
+Europe,3,Both,22,All Ages,294,All causes,1,Number,2010,8565906.481,8606703.253,8527183.215,8565907,,
+Africa,3,Both,22,All Ages,294,All causes,1,Number,2013,9237278.222,9962678.484,8581627.142,9237279,,
+Asia,3,Both,22,All Ages,294,All causes,1,Number,2012,28718803.67,29724432.21,27744858.27,28718804,,
+America,3,Both,22,All Ages,294,All causes,1,Number,2014,6535182.424,6603897.666,6468043.795,6535183,,
+Asia,3,Both,22,All Ages,294,All causes,1,Number,2013,28994766.72,30063131.95,27922277,28994767,,
+America,3,Both,22,All Ages,294,All causes,1,Number,2012,6296023.528,6356175.873,6234490.187,6296024,,
+Europe,3,Both,22,All Ages,294,All causes,1,Number,2013,8467074.338,8509532.651,8429973.923,8467075,,
+Europe,3,Both,22,All Ages,294,All causes,1,Number,2012,8475334.443,8513926.564,8440555.772,8475335,,
+America,3,Both,22,All Ages,294,All causes,1,Number,2013,6425079.286,6486547.413,6362985.479,6425080,,
+Africa,3,Both,22,All Ages,294,All causes,1,Number,2014,9210594.733,10036578.13,8475512.839,9210595,,
+Asia,3,Both,22,All Ages,294,All causes,1,Number,2014,29209017.04,30255206.69,28060653.37,29209018,,
+Europe,3,Both,22,All Ages,294,All causes,1,Number,2014,8505232.492,8547185.984,8465337.062,8505233,,
+Africa,3,Both,22,All Ages,294,All causes,1,Number,2012,9305231.636,9990957.116,8671510.793,9305232,,
+Africa,3,Both,22,All Ages,294,All causes,1,Number,2015,9168240.364,10026492.42,8429010.864,9168241,,
+America,3,Both,22,All Ages,294,All causes,1,Number,2015,6677798.24,6776978.38,6585745.695,6677799,,
+Asia,3,Both,22,All Ages,294,All causes,1,Number,2015,29472570.52,30581357.24,28342808.39,29472571,,
+Europe,3,Both,22,All Ages,294,All causes,1,Number,2015,8717749.343,8764838.771,8671937.427,8717750,,
+Asia,3,Both,22,All Ages,294,All causes,1,Number,2018,30768472.23,32557530.76,28938124.89,30768473,,
+Europe,3,Both,22,All Ages,294,All causes,1,Number,2018,8818259.157,9052133.076,8594726.683,8818260,,
+America,3,Both,22,All Ages,294,All causes,1,Number,2016,6836046.298,6967636.426,6714294.724,6836047,,
+Africa,3,Both,22,All Ages,294,All causes,1,Number,2016,9111370.103,10079910.26,8326832.524,9111371,,
+Asia,3,Both,22,All Ages,294,All causes,1,Number,2016,29828912.63,31241471.13,28537113.96,29828913,,
+Asia,3,Both,22,All Ages,294,All causes,1,Number,2017,30231777.92,31772707.92,28691543.59,30231778,,
+Africa,3,Both,22,All Ages,294,All causes,1,Number,2017,9047048.721,10044904.67,8203440.467,9047049,,
+America,3,Both,22,All Ages,294,All causes,1,Number,2017,6936060.178,7119066.05,6768429.14,6936061,,
+Europe,3,Both,22,All Ages,294,All causes,1,Number,2016,8706010.32,8765993.498,8648906.562,8706011,,
+Africa,3,Both,22,All Ages,294,All causes,1,Number,2018,8971520.454,10008926.58,8105929.963,8971521,,
+Europe,3,Both,22,All Ages,294,All causes,1,Number,2017,8692792.697,8809524.272,8573488.017,8692793,,
+America,3,Both,22,All Ages,294,All causes,1,Number,2018,7091047.304,7342505.307,6862435.397,7091048,,
+Africa,3,Both,22,All Ages,294,All causes,1,Number,2019,8951151.894,9987221.03,8109441.896,8951152,,
+Asia,3,Both,22,All Ages,294,All causes,1,Number,2019,31310725.91,33125656.74,29313017.13,31310726,,
+America,3,Both,22,All Ages,294,All causes,1,Number,2019,7261119.819,7569126.098,6987140.994,7261120,,
+Europe,3,Both,22,All Ages,294,All causes,1,Number,2019,8935075.897,9263730.973,8622725.484,8935076,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+Country,Population,Continent,,,,,,,,,,,,,
+Afghanistan,38928341,Asia,,,,,,,,,,,,,
+Albania,2877800,Europe,,,,,,,,,,,,,
+Algeria,43851043,Africa,,,,,,,,,,,,,
+Andorra,77265,Europe,,,,,,,,,,,,,
+Angola,32866268,Africa,,,,,,,,,,,,,
+Antigua and Barbuda,97928,North America,,,,,,,,,,,,,
+Argentina,45195777,South America,,,,,,,,,,,,,
+Armenia,2963234,Europe,,,,,,,,,,,,,
+Australia,25499881,Oceania,,,,,,,,,,,,,
+Austria,9006400,Europe,,,,,,,,,,,,,
+Azerbaijan,10139175,Europe,,,,,,,,,,,,,
+Bahamas,393248,North America,,,,,,,,,,,,,
+Bahrain,1701583,Asia,,,,,,,,,,,,,
+Bangladesh,164689383,Asia,,,,,,,,,,,,,
+Barbados,287371,North America,,,,,,,,,,,,,
+Belarus,9449321,Europe,,,,,,,,,,,,,
+Belgium,11589616,Europe,,,,,,,,,,,,,
+Belize,397621,North America,,,,,,,,,,,,,
+Benin,12123198,Africa,,,,,,,,,,,,,
+Bhutan,771612,Asia,,,,,,,,,,,,,
+Bolivia,11673029,South America,,,,,,,,,,,,,
+Bosnia and Herzegovina,3280815,Europe,,,,,,,,,,,,,
+Botswana,2351625,Africa,,,,,,,,,,,,,
+Brazil,212559409,South America,,,,,,,,,,,,,
+Brunei,437479,Asia,,,,,,,,,,,,,
+Bulgaria,6948445,Europe,,,,,,,,,,,,,
+Burkina Faso,20903278,Africa,,,,,,,,,,,,,
+Burma,54409800,Asia,,,,,,,,,,,,,
+Burundi,11890781,Africa,,,,,,,,,,,,,
+Cabo Verde,548800,Africa,,,,,,,,,,,,,
+Cambodia,16718971,Asia,,,,,,,,,,,,,
+Cameroon,26545864,Africa,,,,,,,,,,,,,
+Canada,37742157,North America,,,,,,,,,,,,,
+Central African Republic,4829764,Africa,,,,,,,,,,,,,
+Chad,16425859,Africa,,,,,,,,,,,,,
+Chile,19116209,South America,,,,,,,,,,,,,
+China,1439323774,Asia,,,,,,,,,,,,,
+Colombia,50882884,South America,,,,,,,,,,,,,
+Comoros,869595,Africa,,,,,,,,,,,,,
+Congo,5518092,Africa,,,,,,,,,,,,,
+Costa Rica,5094114,North America,,,,,,,,,,,,,
+Croatia,4105268,Europe,,,,,,,,,,,,,
+Cuba,11326616,North America,,,,,,,,,,,,,
+Cyprus,875899,Europe,,,,,,,,,,,,,
+Czechia,10708982,Europe,,,,,,,,,,,,,
+Denmark,5792203,Europe,,,,,,,,,,,,,
+Djibouti,988002,Africa,,,,,,,,,,,,,
+Dominica,71991,North America,,,,,,,,,,,,,
+Dominican Republic,10847904,North America,,,,,,,,,,,,,
+Ecuador,17643060,South America,,,,,,,,,,,,,
+Egypt,102334403,Africa,,,,,,,,,,,,,
+El Salvador,6486201,North America,,,,,,,,,,,,,
+Equatorial Guinea,1402985,Africa,,,,,,,,,,,,,
+Eritrea,3546427,Africa,,,,,,,,,,,,,
+Estonia,1326539,Europe,,,,,,,,,,,,,
+Eswatini,1160164,Africa,,,,,,,,,,,,,
+Ethiopia,114963583,Africa,,,,,,,,,,,,,
+Fiji,896444,Oceania,,,,,,,,,,,,,
+Finland,5540718,Europe,,,,,,,,,,,,,
+France,65273512,Europe,,,,,,,,,,,,,
+Gabon,2225728,Africa,,,,,,,,,,,,,
+Gambia,2416664,Africa,,,,,,,,,,,,,
+Georgia,3989175,Europe,,,,,,,,,,,,,
+Germany,83783945,Europe,,,,,,,,,,,,,
+Ghana,31072945,Africa,,,,,,,,,,,,,
+Greece,10423056,Europe,,,,,,,,,,,,,
+Grenada,112519,North America,,,,,,,,,,,,,
+Guatemala,17915567,North America,,,,,,,,,,,,,
+Guinea,13132792,Africa,,,,,,,,,,,,,
+Guinea-Bissau,1874000,Africa,,,,,,,,,,,,,
+Guyana,786559,South America,,,,,,,,,,,,,
+Haiti,11402533,North America,,,,,,,,,,,,,
+Honduras,9904608,North America,,,,,,,,,,,,,
+Hungary,9660350,Europe,,,,,,,,,,,,,
+Iceland,341250,Europe,,,,,,,,,,,,,
+India,1380004385,Asia,,,,,,,,,,,,,
+Indonesia,273523621,Asia,,,,,,,,,,,,,
+Iran,83992953,Asia,,,,,,,,,,,,,
+Iraq,40222503,Asia,,,,,,,,,,,,,
+Ireland,4937796,Europe,,,,,,,,,,,,,
+Israel,8655541,Asia,,,,,,,,,,,,,
+Italy,60461828,Europe,,,,,,,,,,,,,
+Jamaica,2961161,North America,,,,,,,,,,,,,
+Japan,126476458,Asia,,,,,,,,,,,,,
+Jordan,10203140,Asia,,,,,,,,,,,,,
+Kazakhstan,18776707,Asia,,,,,,,,,,,,,
+Kenya,53771300,Africa,,,,,,,,,,,,,
+"Korea, South",51640000,Asia,,,,,,,,,,,,,
+Kosovo,1932774,Europe,,,,,,,,,,,,,
+Kuwait,4270563,Asia,,,,,,,,,,,,,
+Kyrgyzstan,6524191,Asia,,,,,,,,,,,,,
+Laos,7275556,Asia,,,,,,,,,,,,,
+Latvia,1886202,Europe,,,,,,,,,,,,,
+Lebanon,6825442,Asia,,,,,,,,,,,,,
+Lesotho,2142252,Africa,,,,,,,,,,,,,
+Liberia,5057677,Africa,,,,,,,,,,,,,
+Libya,6871287,Africa,,,,,,,,,,,,,
+Liechtenstein,38137,Europe,,,,,,,,,,,,,
+Lithuania,2722291,Europe,,,,,,,,,,,,,
+Luxembourg,625976,Europe,,,,,,,,,,,,,
+Madagascar,27691019,Africa,,,,,,,,,,,,,
+Malawi,19129955,Africa,,,,,,,,,,,,,
+Malaysia,32365998,Asia,,,,,,,,,,,,,
+Maldives,540542,Asia,,,,,,,,,,,,,
+Mali,20250834,Africa,,,,,,,,,,,,,
+Malta,441539,Europe,,,,,,,,,,,,,
+Mauritania,4649660,Africa,,,,,,,,,,,,,
+Mauritius,1271767,Africa,,,,,,,,,,,,,
+Mexico,128932753,North America,,,,,,,,,,,,,
+Moldova,4033963,Europe,,,,,,,,,,,,,
+Monaco,39244,Europe,,,,,,,,,,,,,
+Mongolia,3278292,Asia,,,,,,,,,,,,,
+Montenegro,628062,Europe,,,,,,,,,,,,,
+Morocco,36910558,Africa,,,,,,,,,,,,,
+Mozambique,31255435,Africa,,,,,,,,,,,,,
+Namibia,2540916,Africa,,,,,,,,,,,,,
+Nepal,29136808,Asia,,,,,,,,,,,,,
+Netherlands,17134873,Europe,,,,,,,,,,,,,
+New Zealand,4822233,Oceania,,,,,,,,,,,,,
+Nicaragua,6624554,North America,,,,,,,,,,,,,
+Niger,24206636,Africa,,,,,,,,,,,,,
+Nigeria,206139587,Africa,,,,,,,,,,,,,
+North Macedonia,2083380,Europe,,,,,,,,,,,,,
+Norway,5421242,Europe,,,,,,,,,,,,,
+Oman,5106622,Asia,,,,,,,,,,,,,
+Pakistan,220892331,Asia,,,,,,,,,,,,,
+Panama,4314768,North America,,,,,,,,,,,,,
+Papua New Guinea,8947027,Oceania,,,,,,,,,,,,,
+Paraguay,7132530,South America,,,,,,,,,,,,,
+Peru,32971846,South America,,,,,,,,,,,,,
+Philippines,109581085,Asia,,,,,,,,,,,,,
+Poland,37846605,Europe,,,,,,,,,,,,,
+Portugal,10196707,Europe,,,,,,,,,,,,,
+Qatar,2881060,Asia,,,,,,,,,,,,,
+Romania,19237682,Europe,,,,,,,,,,,,,
+Russia,145934460,Europe,,,,,,,,,,,,,
+Rwanda,12952209,Africa,,,,,,,,,,,,,
+Saint Kitts and Nevis,53192,North America,,,,,,,,,,,,,
+Saint Lucia,183629,North America,,,,,,,,,,,,,
+Saint Vincent and the Grenadines,110947,North America,,,,,,,,,,,,,
+San Marino,33938,Europe,,,,,,,,,,,,,
+Sao Tome and Principe,219161,Africa,,,,,,,,,,,,,
+Saudi Arabia,34813867,Asia,,,,,,,,,,,,,
+Senegal,16743930,Africa,,,,,,,,,,,,,
+Serbia,6804596,Europe,,,,,,,,,,,,,
+Seychelles,98340,Africa,,,,,,,,,,,,,
+Sierra Leone,7976985,Africa,,,,,,,,,,,,,
+Singapore,5850343,Asia,,,,,,,,,,,,,
+Slovakia,5459643,Europe,,,,,,,,,,,,,
+Slovenia,2078932,Europe,,,,,,,,,,,,,
+Somalia,15893219,Africa,,,,,,,,,,,,,
+South Africa,59308690,Africa,,,,,,,,,,,,,
+South Sudan,11193729,Africa,,,,,,,,,,,,,
+Spain,46754783,Europe,,,,,,,,,,,,,
+Sri Lanka,21413250,Asia,,,,,,,,,,,,,
+Sudan,43849269,Africa,,,,,,,,,,,,,
+Suriname,586634,South America,,,,,,,,,,,,,
+Sweden,10099270,Europe,,,,,,,,,,,,,
+Switzerland,8654618,Europe,,,,,,,,,,,,,
+Syria,17500657,Asia,,,,,,,,,,,,,
+Taiwan,23816775,Asia,,,,,,,,,,,,,
+Tajikistan,9537642,Asia,,,,,,,,,,,,,
+Tanzania,56320000,Africa,,,,,,,,,,,,,
+Thailand,69799978,Asia,,,,,,,,,,,,,
+Togo,8278737,Africa,,,,,,,,,,,,,
+Trinidad and Tobago,1399491,North America,,,,,,,,,,,,,
+Tunisia,11818618,Africa,,,,,,,,,,,,,
+Turkey,84339067,Asia,,,,,,,,,,,,,
+Uganda,45741000,Africa,,,,,,,,,,,,,
+Ukraine,43733759,Europe,,,,,,,,,,,,,
+United Arab Emirates,9890400,Asia,,,,,,,,,,,,,
+United Kingdom,67886004,Europe,,,,,,,,,,,,,
+Uruguay,3473727,South America,,,,,,,,,,,,,
+United States,331002647,North America,,,,,,,,,,,,,
+Uzbekistan,33469199,Asia,,,,,,,,,,,,,
+Venezuela,28435943,South America,,,,,,,,,,,,,
+Vietnam,97338583,Asia,,,,,,,,,,,,,
+West Bank and Gaza,4430000,Asia,,,,,,,,,,,,,
+Western Sahara,597330,Africa,,,,,,,,,,,,,
+Yemen,29825968,Asia,,,,,,,,,,,,,
+Zambia,18383956,Africa,,,,,,,,,,,,,
+Zimbabwe,14862927,Africa,,,,,,,,,,,,,
