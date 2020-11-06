@@ -1,6 +1,5 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "description": "A population pyramid for the US in 2000.",
   "data": { "url": "https://raw.githubusercontent.com/zliu214/FIT3179/main/data/age.csv"},
   "transform": [
     {"calculate": "datum.sex == 1 ? 'Female' : 'Male'", "as": "gender"}
